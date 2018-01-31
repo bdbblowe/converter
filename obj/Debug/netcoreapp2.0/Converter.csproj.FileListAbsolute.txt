@@ -1,0 +1,10 @@
+C:\Users\bdbbl_000\Source\Repos\Converter\Converter\bin\Debug\netcoreapp2.0\Converter.deps.json
+C:\Users\bdbbl_000\Source\Repos\Converter\Converter\bin\Debug\netcoreapp2.0\Converter.runtimeconfig.json
+C:\Users\bdbbl_000\Source\Repos\Converter\Converter\bin\Debug\netcoreapp2.0\Converter.runtimeconfig.dev.json
+C:\Users\bdbbl_000\Source\Repos\Converter\Converter\bin\Debug\netcoreapp2.0\Converter.dll
+C:\Users\bdbbl_000\Source\Repos\Converter\Converter\bin\Debug\netcoreapp2.0\Converter.pdb
+C:\Users\bdbbl_000\Source\Repos\Converter\Converter\obj\Debug\netcoreapp2.0\Converter.csproj.CoreCompileInputs.cache
+C:\Users\bdbbl_000\Source\Repos\Converter\Converter\obj\Debug\netcoreapp2.0\Converter.AssemblyInfoInputs.cache
+C:\Users\bdbbl_000\Source\Repos\Converter\Converter\obj\Debug\netcoreapp2.0\Converter.AssemblyInfo.cs
+C:\Users\bdbbl_000\Source\Repos\Converter\Converter\obj\Debug\netcoreapp2.0\Converter.dll
+C:\Users\bdbbl_000\Source\Repos\Converter\Converter\obj\Debug\netcoreapp2.0\Converter.pdb
